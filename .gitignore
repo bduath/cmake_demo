@@ -1,0 +1,3 @@
+build_cmake_mingw64/*
+build_cmake_msvc/*
+build_cmake_msvc_namke/*
