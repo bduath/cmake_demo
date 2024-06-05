@@ -1,2 +1,2 @@
 # CMAKE_DEMO
-cmake demo.
+cmake demo...
